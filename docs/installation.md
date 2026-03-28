@@ -5,7 +5,8 @@ Existem duas formas de utilizar o **Julius**: adicionando o bot oficial ao seu s
 ## 1. Adicionando ao seu Servidor (Rápido)
 Se você não quer lidar com código e só quer começar a economizar, use o link oficial de convite:
 
-* [Convite do Julius Bot](https://discord.com/api/oauth2/authorize?client_id=SEU_ID_AQUI&permissions=8&scope=bot)
+* [Convite do Julius Bot](
+https://discord.com/oauth2/authorize?client_id=1485779653225480252)
 
 > **Nota:** Certifique-se de ter permissão de "Gerenciar Servidor" para adicionar o bot.
 
@@ -24,6 +25,5 @@ Se você quer contribuir ou rodar sua própria versão, siga os passos abaixo. O
 1. **Clone o repositório:**
     
     ```
-    git clone [https://github.com/io-deepsea/julius.git](https://github.com/io-deepsea/julius.git)
-    && cd julius
+    git clone https://github.com/io-deepsea/julius.git && cd julius
     ```
