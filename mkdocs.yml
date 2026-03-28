@@ -1,6 +1,6 @@
 site_name: Julius Bot
 
-site_url: https://mydomain.org/mysite
+site_url: https://io-deepsea/julius-docs
 theme:
   name: material
   palette:
@@ -13,5 +13,3 @@ nav:
   - Início: index.md
   - Instalação: installation.md
   - Comandos: commands.md
-  - Apoio: contributing.md
-  - Apoiadores: supporters.md

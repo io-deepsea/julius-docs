@@ -13,7 +13,7 @@ O projeto é totalmente aberto e transparente. Se você é dev e quer ajudar a m
 
 Manter o Julius online 24/7 exige recursos de servidor e, principalmente, tempo de desenvolvimento. Como o criador do bot também tem boletos que não param de chegar, qualquer ajuda é bem-vinda para manter as luzes acesas e o código fluindo.
 
-Você pode contribuir via Pix ou ver como ajudar na nossa página de Apoio. Cada real ajuda a manter o servidor ligado e o dev motivado!
+Você pode contribuir via Pix ou ver como ajudar na nossa página de Apoio[EM BREVE]. Cada real ajuda a manter o servidor ligado e o dev motivado!
 
 ## Contato 
 Caso tenha dúvidas sobre o **Julius** ou quer conhecer mais sobre o projeto, sinta-se livre para entrar no nosso servidor do discord: [Discord do Julius](https://discord.gg/gkYmwVgUUM)

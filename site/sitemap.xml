@@ -1,27 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://mydomain.org/mysite/</loc>
+         <loc>https://io-deepsea/julius-docs/</loc>
          <lastmod>2026-03-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/commands/</loc>
+         <loc>https://io-deepsea/julius-docs/commands/</loc>
          <lastmod>2026-03-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/contributing/</loc>
-         <lastmod>2026-03-28</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://mydomain.org/mysite/installation/</loc>
-         <lastmod>2026-03-28</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://mydomain.org/mysite/supporters/</loc>
+         <loc>https://io-deepsea/julius-docs/installation/</loc>
          <lastmod>2026-03-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
