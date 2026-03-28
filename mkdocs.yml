@@ -1,0 +1,17 @@
+site_name: Julius Bot
+
+site_url: https://mydomain.org/mysite
+theme:
+  name: material
+  palette:
+    primary: deep purple  # Cozy/Chill vibe
+    accent: pink
+  icon:
+    repo: fontawesome/brands/github
+
+nav:
+  - Início: index.md
+  - Instalação: installation.md
+  - Comandos: commands.md
+  - Apoio: contributing.md
+  - Apoiadores: supporters.md
